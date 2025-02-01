@@ -1,4 +1,4 @@
-# Design Document
+# CS50's Introduction to Databases with SQL - Final Project
 
 By Américo Cot Toloza
 
